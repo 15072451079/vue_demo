@@ -30,4 +30,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 <i>&nbsp;json-server搭建本地简易数据服务器，加载本地mock数据<br></i>
 <i>&nbsp;axios拉取服务器数据，拿到数据渲染数据</i>
   
- 
+<h4>项目总结与展望</h4>
+<i>&nbsp;项目未实现的功能：后台开发，登录注册功能，在后续的学习中，进一步完善<br></i>
+<i>&nbsp;项目为传统pc端站点，应考虑适当适配移动端，尽量做到能够适配多端<br></i>
+<i>&nbsp;spa页面首页加载缓慢，应进行适当的优化以及seo问题</i>
